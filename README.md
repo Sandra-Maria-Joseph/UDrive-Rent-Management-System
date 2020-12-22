@@ -1,5 +1,5 @@
 # UDrive-Rent-Management-System
  UDrive is a Vehicle Rent Management System. This is a Web application for the system.
 
-_Framework used for web app : Flask
+Framework used for web app : Flask
 
